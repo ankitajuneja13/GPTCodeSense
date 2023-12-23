@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore specific file
+.env
+
+# Ignore all .log files
+*.log
+
+# Ignore files in a specific directory
+/directoryname/
